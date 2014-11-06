@@ -1,0 +1,28 @@
+{
+  "name": "react-factory",
+  "version": "1.0.0",
+  "description": "`react.createFactory` wrapper because we hate long names.",
+  "main": "index.js",
+  "repository": "yoshuawuyts/react-factory",
+  "keywords": [
+    "react",
+    "boycott jsx",
+    "#nolongnames",
+    "reactComponent",
+    "react-component"
+  ],
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "istanbul": "^0.3.2",
+    "make-lint": "^1.0.1",
+    "mocha": "^2.0.1",
+    "should": "^4.2.0"
+  },
+  "files": [
+    "lib",
+    "LICENSE",
+    "index.js",
+    "HISTORY.md"
+  ]
+}
